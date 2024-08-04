@@ -5,9 +5,6 @@
 This is a task based project under data analysis .
 
 
-## Features 
-1.DBeaver MYSQL database connection
-
 ## Questions to be answered
 1: Find all records where the weather was exactly clear.
 https://luxdevcommunity.slack.com/files/U0783C8AVGE/F07F00HEBTR/image.png
