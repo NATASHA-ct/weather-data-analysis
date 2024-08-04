@@ -7,7 +7,7 @@ This is a task based project under data analysis .
 
 ## Questions to be answered
 1: Find all records where the weather was exactly clear.
-https://luxdevcommunity.slack.com/files/U0783C8AVGE/F07F00HEBTR/image.png
+ - https://luxdevcommunity.slack.com/files/U0783C8AVGE/F07F00HEBTR/image.png
 
 2: Find the number of times the wind speed was exactly 4 km/hr.
 - 474
@@ -25,7 +25,7 @@ Weather             0
 
 
 4: Rename the column "Weather" to "Weather_Condition."
-https://luxdevcommunity.slack.com/files/U0783C8AVGE/F07FEHEM2TC/image.png
+- https://luxdevcommunity.slack.com/files/U0783C8AVGE/F07FEHEM2TC/image.png
 
 5: What is the mean visibility of the dataset?
 - 27.664446721311478
@@ -33,8 +33,6 @@ https://luxdevcommunity.slack.com/files/U0783C8AVGE/F07FEHEM2TC/image.png
 6: Find the number of records where the wind speed is greater than 24 km/hr and visibility is equal to 25 km.
 - 308
 
-7: What is the mean value of each column for each weather condition?
--
 
 8: Find all instances where the weather is clear and the relative humidity is greater than 50, or visibility is above 40.
 - https://luxdevcommunity.slack.com/files/U0783C8AVGE/F07FBLWAECV/image.png
